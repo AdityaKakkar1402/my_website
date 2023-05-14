@@ -22,10 +22,16 @@ const Showcase = ({ data, transition }) => {
                         <h3>{project.name}</h3>
                         <div className="go-to-cta">
                             <span className="text">Project Details</span>
-                            <Arrow />
+                            <a href={project.link}>
+                                {" "}
+                                <Arrow />
+                            </a>
                         </div>
                     </div>
-                    <img src={project.media.thumbnail} />
+                    <img
+                        src={project.media.thumbnail}
+                        alt="yo"
+                    />
                 </div>
             ))}
         </div>

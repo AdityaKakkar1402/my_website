@@ -14,6 +14,7 @@ const projectsData = [
         media: {
             thumbnail: require("../../images/portfolio/thumb-7.jpg"),
         },
+        link: "https://github.com/AdityaKakkar1402/API_GATEWAY",
     },
     {
         id: 2,
@@ -22,6 +23,7 @@ const projectsData = [
         media: {
             thumbnail: require("../../images/portfolio/thumb-2.jpg"),
         },
+        link: "https://github.com/AdityaKakkar1402/twitter_backend",
     },
     {
         id: 3,
@@ -30,6 +32,7 @@ const projectsData = [
         media: {
             thumbnail: require("../../images/portfolio/thumb-8.jpg"),
         },
+        link: "https://github.com/AdityaKakkar1402/nftmarket",
     },
     {
         id: 4,
@@ -38,6 +41,7 @@ const projectsData = [
         media: {
             thumbnail: require("../../images/portfolio/thumb-1.jpg"),
         },
+        link: "https://main--astonishing-truffle-91649c.netlify.app/",
     },
     {
         id: 5,
@@ -46,6 +50,7 @@ const projectsData = [
         media: {
             thumbnail: require("../../images/portfolio/thumb-6.jpg"),
         },
+        link: "https://github.com/AdityaKakkar1402/thyroid-detection",
     },
 ];
 
