@@ -1,14 +1,7 @@
 import React from "react";
-import {
-    FaYoutube,
-    FaGithub,
-    FaLinkedinIn,
-    FaStackOverflow,
-    FaInstagram,
-} from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaStackOverflow } from "react-icons/fa";
 
 import Section from "../shared/section";
-import Logo from "../../images/logo.png";
 import SocialIcon from "./social-icon";
 import { scrollToSection } from "../utils/helpers";
 
